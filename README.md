@@ -1,4 +1,4 @@
-# 🛡️ SOC Analyst Fundamentals: Tools, Roles & Incident Response Frameworks
+# SOC OPERATIONS
 
 🔗 **Live Repo:** [github.com/Matt-Solo/soc-analyst-fundamentals](https://github.com/Matt-Solo/soc-analyst-fundamentals)
 
