@@ -2,7 +2,7 @@
 
 🔗 **Live Repo:** [github.com/Matt-Solo/soc-analyst-fundamentals](https://github.com/Matt-Solo/soc-analyst-fundamentals)
 
-This project outlines the core structure and operations of a Security Operations Center (SOC). It covers technologies like SIEM, EDR, TIP, and SOAR, analyst roles (L1–L3), and incident response frameworks (NIST and SANS). Ideal for SOC Analyst beginners and cybersecurity learners building foundational knowledge.
+SOC operations and incident response frameworks | SIEM tools, MITRE ATT&CK mapping, and security workflow documentation
 
 ---
 
